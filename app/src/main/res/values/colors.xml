@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="must_pooleldi_nähtamatu">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="hall">#808080</color>
+    <color name="valge">#fafafa</color>
+    <color name="valge_pressed">#f1f1f1</color>
+    <color name="roosa">#e91e63</color>
+    <color name="roosa_pressed">#ec407a</color>
+    <color name="sinine_pooleldi_nähtamatu">#805677fc</color>
+    <color name="sinine_semi_transparent_pressed">#80738ffe</color>
+</resources>
